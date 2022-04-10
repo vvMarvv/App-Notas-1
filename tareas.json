@@ -1,0 +1,19 @@
+[{
+    "título" : "Hacer tp",
+    "estado": "terminado"
+},
+
+{
+    "título" : "Comprar libro",
+    "estado": "pendiente"
+    
+},
+{
+    "título" : "Sacar turno para odontología",
+    "estado" : "pendiente"
+},
+{
+    "título" : "Hacer ejercicio del Playground",
+    "estado" : "En progreso"
+}
+]
